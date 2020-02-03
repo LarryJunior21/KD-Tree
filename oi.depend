@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1512585823 source:c:\users\aluno\documents\oi\main.c
+	"taj.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1512579934 c:\users\aluno\documents\oi\taj.h
+	<conio.h>
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wincon.h>
+	<string.h>
+	<stdlib.h>
+
+1512585824 source:f:\kd-tree\main.c
+	"taj.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1512579936 f:\kd-tree\taj.h
+	<conio.h>
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wincon.h>
+	<string.h>
+	<stdlib.h>
+
